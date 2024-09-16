@@ -1,3 +1,7 @@
+# Padrões em uso por padrão no ReactJS
+DRY - Don’t Repeat Yourself
+SRP - Single Responsible
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
